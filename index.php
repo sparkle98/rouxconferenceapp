@@ -7,7 +7,7 @@
     <link href="_/css/mystyles.css" rel="stylesheet" media="screen">
   </head>
   <body>
-    <h1>Hello, world! rev3</h1>
+    <h1>Hello, world!</h1>
 
     <script src="_/js/bootstrap.js"></script>
     <script src="_/js/myscript.js"></script>
